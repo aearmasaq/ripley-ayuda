@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Milagros",
+        "dni": "73475431",
+        "password": "123456789"
+    },
+    {
+        "id": 2,
+        "nombre": "Esthefany",
+        "dni": "73475432",
+        "password": "123456789"
+    },
+    {
+        "id": 3,
+        "nombre": "Edimir",
+        "dni": "73475431",
+        "password": "123456"
+    }
+]

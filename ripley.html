@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://kit.fontawesome.com/824b7cf047.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/ripley.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <header class="header">
+    <a href="" class="logo">
+      <img class="img-logo" src="img/quedateencasa.png" alt="">
+    </a>
+    <input class="menu-btn" type="checkbox" id="menu-btn" />
+    <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+    <ul class="menu">
+      <li><a href="#marcas">Marcas</a></li>
+      <li><a href="#nuevo">Lo Nuevo</a></li>
+      <li><a href="#armado">Armado</a></li>
+      <li><a href="index.html"><i class="fas fa-sign-out-alt" title="Cerrar la sesión"></i></a></li>
+    </ul>
+  </header>
+
+  <div class="content-items">
+    <section class="banner" id="about">
+      <header class="banner__info">
+        <h1>RIPLEY</h1>
+        <p>Aqui podras encontrar los numero de las marcas para soporte tecnico y las ultimas noticias.</p>
+      </header>
+    </section>
+    <br>
+    <div class="marcas-titulo" id="marcas">
+      <h2>LISTA DE MARCAS CON SU NUMERO DE CONTACTO</h2>
+    </div>
+    <br>
+    <div class="marcas" id="marcas">
+      <div class="grid-container" id="lista-marcas">
+      </div>
+    </div>
+    <br>
+    <div class="marcas-titulo" id="nuevo">
+      <h2>NUEVAS ACTUALIZACIONES</h2>
+    </div>
+    <br>
+
+    <div class="marcas" id="nuevo">
+      <div class="grid-container" id="lista-nuevo">
+      </div>
+    </div>     
+
+      <div class="clearfix"></div>
+      <!-- The Modal -->
+      <div id="myModal" class="modal">
+        <span class="close">×</span>
+        <img class="modal-content" id="img01">
+        <div id="caption"></div>
+      </div>
+
+      <br>
+      <div class="marcas-titulo" id="armado">
+        <h2>ARMADO DE PRODUCTOS</h2>
+      </div>
+      <br>   
+      <div class="tab" id="tabs-list">       
+      </div>
+
+      <div class="tabs-content" id="tabs-content">        
+      </div>      
+      <br>
+    </div>
+    <footer>
+      <div class="container">
+        <div class="parent">
+          <div class="item">
+            <p class="p-footer">Author: Edimir Armas <br>
+              <span class="p-edy">© Copyright All rights reserved 2021.</span>
+            </p>
+          </div>
+          <div class="item edy-icon">
+            <i class="fab fa-facebook-square"></i>
+            <i class="fab fa-twitter-square"></i>
+            <i class="fab fa-linkedin"></i>
+            <i class="fab fa-github-square"></i>
+          </div>
+        </div>
+    </footer>
+    <script src="js/ripley.js"></script>
+</body>
+
+</html>
