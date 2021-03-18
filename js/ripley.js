@@ -165,9 +165,10 @@ let noticias = [
         "img": "img/actualizado/foto1.jpg",
         "nombre": "ESTADOS DE PASARELA",      
     },
+    //SE CORRIGE ERROR DE IMG
     {
         "id": 2,
-        "img": "img/actualizado/foto2.jpg",
+        "img": "img/actualizado/foto2.JPG",
         "nombre": "CONSULTA DE RESERVA - CONSULTAS ESPECIALES",      
     },
     {
