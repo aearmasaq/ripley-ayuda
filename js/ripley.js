@@ -167,7 +167,7 @@ let noticias = [
     },
     {
         "id": 2,
-        "img": "img/actualizado/foto2.jpg",
+        "img": "img/actualizado/foto2.JPG",
         "nombre": "CONSULTA DE RESERVA - CONSULTAS ESPECIALES",      
     },
     {
