@@ -157,7 +157,61 @@ let marcas = [
         "atencion": "Lunes a viernes de 8:00 am a 6:00 pm, sábados de 8:00 am a 12 :00 pm",
         "link": "https://www.monark.com.pe/servicio-tecnico/"
     },
+    {
+        "id": 16,
+        "img": "img/hp.png",
+        "nombre": "HP",
+        "telefono": "0-800-7-0027",
+        "celular": "(01) 411 2000 - (01) 707 1481",
+        "correo": "No tiene",
+        "atencion": "No detalla",
+        "link": "https://support.hp.com/pe-es/contact-hp"
+    },
+    {
+        "id": 17,
+        "img": "img/indurama.png",
+        "nombre": "INDURAMA",
+        "telefono": "0-800-1-5222",
+        "celular": " (01) 221 4403 - (01) 206 2423",
+        "correo": "servicio_cliente@servihogar.com",
+        "atencion": "Lunes a Viernes: 7:00am hasta 19:00pm",
+        "link": "https://www.indurama.com/pe/content/servihogar-per%C3%BA"
+    },
+    {
+        "id": 18,
+        "img": "img/coldex.png",
+        "nombre": "COLDEX",
+        "telefono": "(01)574-7075",
+        "celular": " No tiene",
+        "correo": "No tiene",
+        "atencion": "No detalla",
+        "link": "https://www.coldex.pe/contactanos"
+    },
+    {
+        "id": 19,
+        "img": "img/winia.png",
+        "nombre": "WINIA",
+        "telefono": "0-800-77-4-77",
+        "celular": "(01)716-7700",
+        "correo": "contactos@winia.com.pe",
+        "atencion": "No detalla",
+        "link": "http://www.winia.com.pe/soporte-tecnico"
+    },
+    {
+        "id": 19,
+        "img": "img/philips.png",
+        "nombre": "PHILIPS",
+        "telefono": "0-800 71-6-00",
+        "celular": "No tiene",
+        "correo": "No tiene",
+        "atencion": "No detalla",
+        "link": "https://tpvcrmplus.force.com/PhilipsTVAudioMonitorConsumerCare/s/contactsupport?language=es_AR"
+    },
+    
+    
 ]
+
+
 
 let noticias = [
     {
