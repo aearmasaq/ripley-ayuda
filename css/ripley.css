@@ -458,6 +458,7 @@ div.img img {
   height: 100%;
 }
 
+/*Responsive Movile */
 
 @media only screen and (max-width: 600px) {
   .tab {   
