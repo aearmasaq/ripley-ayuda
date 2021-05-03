@@ -455,4 +455,18 @@ div.img img {
 
 .tabs-content p{
   font-weight: bold;
+  height: 100%;
+}
+
+/*Responsive Movile */
+
+@media only screen and (max-width: 600px) {
+  .tab {   
+    display: block; 
+    overflow: hidden;
+    border: 1px solid #000000;
+    background-color: #000000;
+    border-radius: .50rem .50rem .0rem .0rem; 
+    
+  }
 }

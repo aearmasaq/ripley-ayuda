@@ -165,6 +165,7 @@ let noticias = [
         "img": "img/actualizado/foto1.jpg",
         "nombre": "ESTADOS DE PASARELA",      
     },
+    //SE CORRIGE ERROR DE IMG
     {
         "id": 2,
         "img": "img/actualizado/foto2.JPG",
@@ -356,7 +357,7 @@ function cargarArmados(){
          <div id="${armados[i].id}" class="tabcontent">
           <h5>${armados[i].descripcion}</h5>
           <br>          
-          <p>Ver condiciones de armado aqui: <a href="${armados[i].link}" target="_blank">${armados[i].link}!</a></p>
+          <p>Ver condiciones de armado aqui: <a href="${armados[i].link}" target="_blank">VER CONDICIONES</a></p>
           <br>
           <img src="${armados[i].img}" alt="">          
         </div>      
